@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "970011403043",
+    "project_id": "incrementproject-ff99e",
+    "storage_bucket": "incrementproject-ff99e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970011403043:android:17eab0ebaf2b686ee2a296",
+        "android_client_info": {
+          "package_name": "com.example.increment_button_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXloZd8xJYxd9MLvk1eTYCKJayTZUMS0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
